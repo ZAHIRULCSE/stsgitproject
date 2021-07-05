@@ -1,4 +1,4 @@
-# Spring Boot Security Project with Thymeleaf, Hibernate and MySQL
+# SpringBoot PostComment SpringSecurity with Thymeleaf, Hibernate JPA and MySQL Project
 
 1) User can register.
 
